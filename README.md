@@ -4,7 +4,7 @@
 The main objective is to perform statistical inference and use of machine learning approaches in Hepatitis C virus data analysis. The analysis was performed using R programming language.
 
 ### Dataset characteristic
-The dataset was downloaded from the Kaggle platform. Donor is Institute of Clinical Chemistry; Medical University Hannover (MHH); Hannover, Germany. Dataset include 615 cases of laboratory values of blood donors and Hepatitis C patients and demographic values like age. The target attribute for classification is Category: Blood donors vs. Hepatitis C (including its progress: Hepatitis C, Fibrosis, Cirrhosis).
+The dataset was downloaded from the Kaggle platform. Donor is Institute of Clinical Chemistry; Medical University Hannover (MHH) in Germany. Dataset include 615 cases of laboratory values of blood donors and Hepatitis C patients and demographic values like age. The target attribute for classification is Category: Blood donors vs. Hepatitis C (including its progress: Hepatitis C, Fibrosis, Cirrhosis).
 
 Attribute Information:
 All attributes except Category and Sex are numerical (discrete and continous). The laboratory data are the attributes 5-14.
