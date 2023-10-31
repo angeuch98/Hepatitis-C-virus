@@ -62,12 +62,14 @@ For variables with:
 - normal distribution
 - independent samples
 - enequal variances
+
 performed Welch's test to chceck differences in mean between two groups (blood donor and hepatits).
 
 For variables with:
 - non-normal distribution
 - independent samples
 - unequal variances
+
 performed Mann-Whitney U test to examine differences between two groups (blood donor and hepatits).
 
 
