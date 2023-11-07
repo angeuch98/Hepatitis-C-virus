@@ -1,7 +1,7 @@
 # Hepatitis-C-virus
 
 ### Main goal
-The main objective is to perform statistical inference and use of machine learning approaches in Hepatitis C virus data analysis. The analysis was performed using R programming language.
+The main objective is to perform statistical inference and use of machine learning approaches in Hepatitis C virus data analysis. Machine learning techniques were used to build a binary classifier capable of classifying a new observation into a sick (Hepatitic C) or healthy group. The analysis was performed using R programming language.
 
 ### Dataset characteristic
 The dataset was downloaded from the Kaggle platform. Donor is Institute of Clinical Chemistry; Medical University Hannover (MHH) in Germany. Dataset include 615 cases of laboratory values of blood donors and Hepatitis C patients and demographic values like age. The target attribute for classification is Category: Blood donors vs. Hepatitis C (including its progress: Hepatitis C, Fibrosis, Cirrhosis).
